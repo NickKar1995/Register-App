@@ -18,10 +18,10 @@ A recipe app utilizing React Framework
 
 
 ## Dependecies
-- Node.js
-- Express
-- 
-
+- React
+- React-dom
+- react-scripts
+- uuid
 
 ## What the app looks like
 ![alt text]
