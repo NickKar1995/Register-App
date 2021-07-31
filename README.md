@@ -3,7 +3,7 @@ A recipe app utilizing React Framework
 
 ## How to run the app
 1. Either fork or download the app and open the folder in your editor.
-2. Make sure you have installed all the prerequisites (node modules,express)
+2. Make sure you have installed all the prerequisites (node modules)
 3. Run npm start on terminal
 
 ## Features
